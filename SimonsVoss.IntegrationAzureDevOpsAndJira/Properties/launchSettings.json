@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SimonsVoss.IntegrationAzureDevOpsAndJira": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7180",
+      "launchBrowser": false
+    }
+  }
+}
